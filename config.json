@@ -1,15 +1,15 @@
 {
  "Bot": {
-     "Token": "Botunuzun discord tokeni",
-     "Prefix": "Ön ek (! vb.)",
-      "moderator" : "Moderatör rolünün idsi (ban komutu için)",
+     "Token": "OTc1NjgxNTc4NDgxMDk0NjU2.G4NN9H.prbfoep01PQUb4znz__QwbH-GMDsu7o-goOwRo",
+     "Prefix": "$",
+      "moderator" : "971221887420096532",
       "statusDelay": "19",
-    "Developers": ["Botunuz geliştirici(leri)"]
+    "Developers": ["Gorengan Hunter"]
     },
  "Server" : {
-    "name" : "Sunucunuzun adı",
-    "ip" : "Sunucunuzun ip adresi",
-    "port" : "19132", 
+    "name" : "Mabar Skuy",
+    "ip" : "ffmakzid.aternos.me",
+    "port" : "47942", 
     "apikey" : "PocketServer API Keyiniz (oysorgu için)"
     }
 }
